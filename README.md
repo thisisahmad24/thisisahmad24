@@ -3,7 +3,7 @@
 <!-- Animated Typing Banner: Adjusts the role to reflect Full-Stack and AI focus -->
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26weight%3D500%26size%3D22%26pause%3D1000%26center%3Dtrue%26vCenter%3Dtrue%26width%3D435%26lines%3DFull-Stack%2BDeveloper%2B%25E2%259C%25A8%3BMERN%2B%252F%2BPERN%2BStack%2BSpecialist%3BApplying%2BAI%2B%252F%2BML%2Bto%2BWeb%2BApps%25F0%259F%25A7%25A0" alt="Typing SVG" />
+<img src="232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif" alt="GIF Banner" />
 </p>
 
 <!-- GitHub Streak SVG - Use your correct GitHub username here -->
