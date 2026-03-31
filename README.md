@@ -58,3 +58,36 @@ I’m open to:
 - Freelance AI projects  
 
 Let’s build something impactful 🚀
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 VIRQA — AI-Powered Interview & Assessment Platform
+> An intelligent system designed to evaluate candidates using AI-driven question generation and structured response workflows.
+
+- ⚙️ Built with: Python, React, MongoDB  
+- 🧠 Features: Candidate workflows, structured assessments, system design for AI integration  
+- 🎯 Focus: Building a scalable foundation for AI-powered hiring systems  
+- 🚧 Status: In active development  
+- 🔗 [View Project](https://github.com/thisisahmad24)
+
+---
+
+## 🧪 Projects in Progress
+
+### 🤖 Agentic AI System (In Progress)
+> Designing a multi-agent system capable of autonomous decision-making using LLMs.
+
+- 🎯 Focus: Task orchestration, memory, and agent collaboration  
+- 🧠 Learning: Real-world AI system design patterns  
+
+---
+
+### 🎥 AI Video Intelligence System (Planned)
+> Exploring intelligent video processing and privacy-focused AI applications.
+
+- 🎯 Focus: Computer vision + AI integration  
+- 🧠 Goal: Build production-level AI system  
+
+---
