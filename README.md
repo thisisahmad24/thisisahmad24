@@ -91,3 +91,29 @@ Let’s build something impactful 🚀
 - 🧠 Goal: Build production-level AI system  
 
 ---
+---
+
+## 📊 GitHub Activity & Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=dark&hide_border=true" />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=thisisahmad24&theme=dark&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 🧠 Currently Building
+
+- 🚀 Improving **VIRQA into a production-ready AI system**
+- 🤖 Exploring **Agentic AI architectures**
+- ⚙️ Strengthening **backend & system design skills**
+
+---
+
+## ⚡ Philosophy
+
+> “I don’t just write code — I design systems that think, adapt, and solve real problems.”
