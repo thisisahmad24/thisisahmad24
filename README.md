@@ -6,7 +6,11 @@
   </p>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Intelligent+Systems;Agentic+AI+%7C+LLMs+%7C+Full-Stack+Development" />
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=divider"/>
 
 ## 🧠 About Me
 
@@ -16,7 +20,7 @@ My focus is on creating the **“brain layer” of modern software** — from Ag
 
 Unlike traditional developers, I don’t just build features — I build **decision-making systems**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## 🚀 What I Do
 
@@ -26,7 +30,7 @@ Unlike traditional developers, I don’t just build features — I build **decis
 - 🗄️ Design scalable databases (**MongoDB, MySQL**)  
 - 🎯 Optimize AI using **Prompt Engineering & system design**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## 🏗️ Current Focus
 
@@ -35,20 +39,20 @@ Unlike traditional developers, I don’t just build features — I build **decis
 - Strengthening **system design + backend architecture**
 - Preparing for **AI Engineering / Product roles**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## 🎯 Positioning
 
 > I aim to become a **top-tier AI Engineer** who can design, build, and ship complete intelligent systems — from model interaction to user experience.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## 📍 Education
 
 🎓 BS Software Engineering  
 University of Central Punjab
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## 🤝 Let’s Connect
 
@@ -59,7 +63,7 @@ I’m open to:
 
 Let’s build something impactful 🚀
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=divider"/>
 
 ## 🚀 Featured Projects
 
@@ -72,7 +76,7 @@ Let’s build something impactful 🚀
 - 🚧 Status: In active development  
 - 🔗 [View Project](https://github.com/thisisahmad24)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=divider"/>
 
 ## 🧪 Projects in Progress
 
@@ -90,8 +94,7 @@ Let’s build something impactful 🚀
 - 🎯 Focus: Computer vision + AI integration  
 - 🧠 Goal: Build production-level AI system  
 
----
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=divider"/>
 
 ## 📊 GitHub Activity & Stats
 
@@ -104,7 +107,7 @@ Let’s build something impactful 🚀
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=dark&hide_border=true" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=80&section=divider"/>
 
 ## 🧠 Currently Building
 
@@ -112,8 +115,20 @@ Let’s build something impactful 🚀
 - 🤖 Exploring **Agentic AI architectures**
 - ⚙️ Strengthening **backend & system design skills**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=60&section=divider"/>
 
 ## ⚡ Philosophy
 
 > “I don’t just write code — I design systems that think, adapt, and solve real problems.”
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thisisahmad24&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+---
+
+<p align="center">
+  <b>Ahmad Hassan</b> — Designing the intelligence behind modern software.
+</p>
