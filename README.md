@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=AI+Engineer;Building+Intelligent+Systems;Agentic+AI+%7C+LLMs+%7C+Full-Stack+Development" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🌐 Connect With Me
 
@@ -23,7 +23,7 @@
   </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🧠 About Me
 
@@ -33,7 +33,7 @@ My focus is on creating the **“brain layer” of modern software** — from Ag
 
 Unlike traditional developers, I don’t just build features — I build **decision-making systems**.
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🚀 What I Do
 
@@ -43,7 +43,7 @@ Unlike traditional developers, I don’t just build features — I build **decis
 - 🗄️ Design scalable databases (**MongoDB, MySQL**)  
 - 🎯 Optimize AI using **Prompt Engineering & system design**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🏗️ Current Focus
 
@@ -51,7 +51,7 @@ Unlike traditional developers, I don’t just build features — I build **decis
 - Exploring **LLM orchestration & multi-agent systems**
 - Strengthening **system design + backend architecture**
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🚀 Featured Project
 
@@ -63,14 +63,14 @@ Unlike traditional developers, I don’t just build features — I build **decis
 - 🚧 In active development  
 - 🔗 [View Project](https://github.com/thisisahmad24)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 🧪 In Progress
 
 - 🤖 Agentic AI System (multi-agent workflows)  
 - 🎥 AI Video Intelligence (computer vision + privacy)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## 💻 Tech Stack
 
@@ -112,19 +112,20 @@ Unlike traditional developers, I don’t just build features — I build **decis
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity & Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thisisahmad24&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=thisisahmad24&theme=tokyonight&hide_border=true" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisisahmad24&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thisisahmad24&theme=github_dark&utcOffset=5" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0F2027,50:203A43,100:2C5364&section=divider"/>
 
 ## ⚡ Philosophy
 
