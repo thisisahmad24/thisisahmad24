@@ -1,5 +1,7 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                        HEADER                             -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -9,11 +11,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=900&size=60&duration=1&pause=99999&color=111111&center=true&vCenter=true&repeat=false&width=500&height=80&lines=Ahmad+Hassan" alt="Ahmad Hassan" />
 </picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1&pause=99999&color=00F7FF&center=true&vCenter=true&repeat=false&width=750&height=30&lines=AI+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+SQA+%C2%B7+Design+Enthusiast" alt="subtitle"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=1&pause=99999&color=FF0033&center=true&vCenter=true&repeat=false&width=750&height=30&lines=AI+Engineer+%C2%B7+Full-Stack+Developer+%C2%B7+SQA+%C2%B7+Design+Enthusiast" alt="subtitle"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&height=35&lines=AI+Engineer+%F0%9F%A4%96;Building+intelligent+systems+%F0%9F%A7%A0;Agentic+AI+%C2%B7+LLMs+%C2%B7+Full-Stack+%F0%9F%9A%80;Based+in+Lahore%2C+Pakistan+%F0%9F%8C%8D" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=FF0033&center=true&vCenter=true&width=700&height=35&lines=SYSTEM+STATUS:+ONLINE;SECURITY+LAYER:+ACTIVE;THREAT+MONITORING:+ENABLED;Agentic+AI+%C2%B7+LLMs+%C2%B7+Full-Stack" />
 
 <br/>
 
@@ -23,8 +25,20 @@
 
 ---
 
+<!-- 🔴 RED SYSTEM ALERT BANNER -->
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2000&pause=1000&color=FF0033&center=true&vCenter=true&width=800&lines=SYSTEM+INTEGRITY:+STABLE;UNAUTHORIZED+ACCESS:+DENIED;AI+MODULES:+ACTIVE" />
+
+</div>
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                     INTRO + GIF                           -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <img align="right" alt="Coding GIF" width="360" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif"/>
@@ -41,33 +55,61 @@ focus    : AI · Full-Stack · SQA · Design
 location : Lahore, Pakistan 🇵🇰
 ```
 
-🛡️ Building **VIRQA** — AI-powered interview platform  
-⚙️ Engineering **Full-Stack Systems** — MERN & PERN stacks  
-🎮 Design & Video — **Adobe Premiere · DaVinci · Photoshop**  
+🛡️ Building **VIRQA** — AI-powered interview platform
+⚙️ Engineering **Full-Stack Systems** — MERN & PERN stacks
+🎮 Design & Video — **Adobe Premiere · DaVinci · Photoshop**
 🎯 On a mission to build the "brain layer" of modern software
 
 > *"I don't just write code — I design systems that think, adapt, and solve real problems."*
+
+<!-- 🔴 SYSTEM LOG -->
+
+```diff
++ initializing intelligence modules...
++ loading AI pipelines...
++ verifying system integrity...
+
+! anomaly detection: running
+! adaptive systems: active
+
+- unauthorized access: denied
+```
 
 <br clear="right"/>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                   SOCIAL BADGES                           -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-hassan-ai-engineer)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/404.dimension)
-[![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thisisahmad07@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-FF0033?style=for-the-badge\&logo=linkedin\&logoColor=black)](https://www.linkedin.com/in/ahmad-hassan-ai-engineer)
+[![Instagram](https://img.shields.io/badge/Instagram-FF0033?style=for-the-badge\&logo=instagram\&logoColor=black)](https://instagram.com/404.dimension)
+[![Gmail](https://img.shields.io/badge/Gmail-FF0033?style=for-the-badge\&logo=gmail\&logoColor=black)](mailto:thisisahmad07@gmail.com)
 
 </div>
 
 ---
 
+## 🔴 System Execution Modes
+
+```text
+[ ANALYZE ]   → Understanding complex systems
+[ BUILD ]     → Engineering scalable architectures
+[ BREAK ]     → Stress-testing system reliability
+[ DEPLOY ]    → Shipping production-grade AI
+```
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                  FEATURED PROJECTS                       -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🚀 Featured Projects
@@ -79,24 +121,26 @@ location : Lahore, Pakistan 🇵🇰
 <td width="50%" valign="top">
 
 ### 🧠 VIRQA
+
 AI-driven candidate evaluation system with structured workflows. Focused on streamlining hiring through intelligent assessments.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF0033?style=flat-square\&logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-FF0033?style=flat-square\&logo=react\&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF0033?style=flat-square\&logo=mongodb\&logoColor=white)
 
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-00F7FF?style=for-the-badge&logo=github&logoColor=black)](https://github.com/thisisahmad24)
+[![View Repo](https://img.shields.io/badge/→%20View%20Repo-FF0033?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/thisisahmad24)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🤖 Multi-Agent Workflows
+
 Autonomous AI task execution environment powered by interconnected LLM agents. Designed for complex reasoning and planning tasks.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF6F00?style=flat-square&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs-FF0033?style=flat-square\&logo=openai\&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-FF0033?style=flat-square\&logo=chainlink\&logoColor=white)
 
 </td>
 </tr>
@@ -104,21 +148,23 @@ Autonomous AI task execution environment powered by interconnected LLM agents. D
 <td width="50%" valign="top">
 
 ### 🎥 Video Intelligence
+
 Computer vision pipeline ensuring real-time video comprehension while safeguarding data privacy. Built with TensorFlow.
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF0033?style=flat-square\&logo=tensorflow\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-FF0033?style=flat-square\&logo=opencv\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🌐 Scalable Backend
+
 Robust reasoning layers and scalable architectures designed for production-grade AI applications.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF0033?style=flat-square\&logo=fastapi\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0033?style=flat-square\&logo=postgresql\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF0033?style=flat-square\&logo=docker\&logoColor=white)
 
 </td>
 </tr>
@@ -128,67 +174,96 @@ Robust reasoning layers and scalable architectures designed for production-grade
 
 ---
 
+## ⚠️ Active Operations Log
+
+```text
+→ VIRQA: AI Interview Intelligence System [RUNNING]
+→ Multi-Agent Workflows: Autonomous Task Execution [STABLE]
+→ Video Intelligence: Privacy-first CV Pipeline [TESTING]
+→ Backend Systems: Scalable APIs [DEPLOYED]
+```
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                      TECH STACK                           -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-FF0033?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-FF0033?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-FF0033?style=for-the-badge\&logo=javascript\&logoColor=black)
+![Java](https://img.shields.io/badge/Java-FF0033?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-FF0033?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF0033?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 <br/>
 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%234169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![React](https://img.shields.io/badge/React-FF0033?style=for-the-badge\&logo=react\&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-FF0033?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-FF0033?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-FF0033?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0033?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-FF0033?style=for-the-badge\&logo=mongodb\&logoColor=white)
 
 <br/>
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF0033?style=for-the-badge\&logo=TensorFlow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-FF0033?style=for-the-badge\&logo=PyTorch\&logoColor=white)
+![Adobe Premiere](https://img.shields.io/badge/Premiere_Pro-FF0033?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-FF0033?style=for-the-badge\&logo=adobe-photoshop\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-FF0033?style=for-the-badge\&logo=docker\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-FF0033?style=for-the-badge\&logo=git\&logoColor=white)
 
 </div>
 
 ---
 
+## 🧬 System Capabilities
+
+```text
+AI SYSTEM DESIGN        ████████████████ 100%
+BACKEND ENGINEERING     ██████████████░░ 90%
+FULL STACK DEV          █████████████░░░ 85%
+SQA & TESTING           ████████████░░░░ 80%
+CREATIVE DESIGN         ██████████░░░░░░ 70%
+```
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                     GITHUB STATS                          -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisisahmad24&theme=github_dark" height="180" alt="Stats Card"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisisahmad24&theme=github_dark" height="180"/>
 &nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thisisahmad24&theme=github_dark&utcOffset=5" height="180" alt="Productive Time"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thisisahmad24&theme=github_dark&utcOffset=5" height="180"/>
 
 </div>
 
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                   GOALS & ASPIRATIONS                     -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎯 Goals & Aspirations
@@ -198,6 +273,7 @@ Robust reasoning layers and scalable architectures designed for production-grade
 I'm focused on building the intelligence layer behind modern software:
 
 **🤖 AI Engineer**
+
 > Going beyond features — I build decision-making systems. My work on VIRQA and Multi-Agent workflows is dedicated to creating software that thinks and adapts.
 
 ```text
@@ -210,8 +286,21 @@ End goal       →  Scale production-grade AI products worldwide
 
 ---
 
+## 🔐 System Integrity
+
+```text
+STATUS        → OPERATIONAL
+SECURITY      → HARDENED
+AI MODULES    → ACTIVE
+THREAT LEVEL  → MINIMAL
+```
+
+---
+
 <!-- ═══════════════════════════════════════════════════════════ -->
+
 <!--                       FOOTER                              -->
+
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -220,9 +309,10 @@ End goal       →  Scale production-grade AI products worldwide
 
 <br/><br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=thisisahmad24&style=for-the-badge&color=00f7ff&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=thisisahmad24\&style=for-the-badge\&color=ff0033\&label=PROFILE+VIEWS)
 
 </div>
 
 ---
+
 *AI Engineer · Lahore, Pakistan*
