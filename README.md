@@ -131,42 +131,7 @@ AI-driven candidate evaluation system with structured workflows. Focused on stre
 
 [![View Repo](https://img.shields.io/badge/→%20View%20Repo-FF0033?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/thisisahmad24)
 
-</td>
-<td width="50%" valign="top">
 
-### 🤖 Multi-Agent Workflows
-
-Autonomous AI task execution environment powered by interconnected LLM agents. Designed for complex reasoning and planning tasks.
-
-![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs-FF0033?style=flat-square\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FF0033?style=flat-square\&logo=chainlink\&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎥 Video Intelligence
-
-Computer vision pipeline ensuring real-time video comprehension while safeguarding data privacy. Built with TensorFlow.
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF0033?style=flat-square\&logo=tensorflow\&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-FF0033?style=flat-square\&logo=opencv\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Scalable Backend
-
-Robust reasoning layers and scalable architectures designed for production-grade AI applications.
-
-![FastAPI](https://img.shields.io/badge/FastAPI-FF0033?style=flat-square\&logo=fastapi\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-FF0033?style=flat-square\&logo=postgresql\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-FF0033?style=flat-square\&logo=docker\&logoColor=white)
-
-</td>
 </tr>
 </table>
 
