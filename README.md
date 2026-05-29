@@ -143,10 +143,6 @@ AI-driven candidate evaluation system with structured workflows. Focused on stre
 
 ```text
 → VIRQA: AI Interview Intelligence System [RUNNING]
-→ Multi-Agent Workflows: Autonomous Task Execution [STABLE]
-→ Video Intelligence: Privacy-first CV Pipeline [TESTING]
-→ Backend Systems: Scalable APIs [DEPLOYED]
-```
 
 ---
 
