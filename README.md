@@ -116,24 +116,6 @@ location : Lahore, Pakistan 🇵🇰
 
 <div align="center">
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 VIRQA
-
-AI-driven candidate evaluation system with structured workflows. Focused on streamlining hiring through intelligent assessments.
-
-![Python](https://img.shields.io/badge/Python-FF0033?style=flat-square\&logo=python\&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-FF0033?style=flat-square\&logo=fastapi\&logoColor=white)
-![React](https://img.shields.io/badge/React-FF0033?style=flat-square\&logo=react\&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-FF0033?style=flat-square\&logo=mongodb\&logoColor=white)
-
-[![View Repo](https://img.shields.io/badge/→%20View%20Repo-FF0033?style=for-the-badge\&logo=github\&logoColor=black)](https://github.com/thisisahmad24)
-
-
-</tr>
-</table>
 
 </div>
 
