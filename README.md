@@ -179,29 +179,6 @@ CREATIVE DESIGN         ██████████░░░░░░ 70%
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-<!--                     GITHUB STATS                          -->
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&include_all_commits=true&count_private=true" height="180"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thisisahmad24&theme=github_dark" height="180"/>
-&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=thisisahmad24&theme=github_dark&utcOffset=5" height="180"/>
-
-</div>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 
