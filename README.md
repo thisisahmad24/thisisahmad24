@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:111827,100:0f0f0f&height=200&text=Ahmad%20Hassan&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Designer&descSize=15&descAlignY=66&descColor=6b7280" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:111827,100:0f0f0f&height=200&text=Ahmad%20Hassan&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Software-Quality-Tester&descSize=15&descAlignY=66&descColor=6b7280" width="100%"/>
 
 </div>
 
@@ -16,7 +16,6 @@
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thisisahmad07@gmail.com)
 [![Instagram](https://img.shields.io/badge/@404.dimension-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/404.dimension)
 [![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/thisisahmad24)
-[![Upwork](https://img.shields.io/badge/Upwork-14a800?style=flat-square&logo=upwork&logoColor=white)](https://upwork.com)
 [![Location](https://img.shields.io/badge/Lahore,%20Pakistan-6b7280?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lahore,Pakistan)
 
 </div>
