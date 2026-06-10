@@ -183,7 +183,7 @@ Deep learning NLP model on IMDb reviews using Bidirectional LSTM architecture wi
 |------|-------------|--------|
 | Media Director | ACM UCP Chapter | Apr – Jun 2025 |
 | Social Media Manager | Cyber Security Society UCP | Jun 2025 – Mar 2026 |
-| Brand Ambassador | DataCrumbs | Active |
+| Brand Ambassador | DataCrumbs | Completed |
 | Project Team Lead | University Projects | Active |
 | Hackathon Operator | Multiple Competitions | Active |
 
