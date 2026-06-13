@@ -36,7 +36,7 @@ freelance  : 2+ years on Upwork · international clients
 status     : Open to full-time · internships · collaborations
 ```
 
-> I don't build tutorial projects. I build SaaS platforms, AI systems, and production-grade software. If you're a recruiter — the repos tell the story better than this file.
+> I don't build tutorial projects. I build SaaS platforms, AI systems, and production-grade software. If you're a recruiter the repos tell the story better than this file.
 
 ---
 
