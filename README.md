@@ -129,7 +129,7 @@ AI-powered food-tech platform with a Gemini-driven recipe customization lab, wea
 
 Instagram media extractor with a freemium monetization layer, multi-format support, and zero login friction.
 
-**Stack:** `Next.js 15` · `FastAPI` · `Supabase`
+**Stack:** `Next.js 15` · `FastAPI` · `MongoDB`
 
 ![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
 
