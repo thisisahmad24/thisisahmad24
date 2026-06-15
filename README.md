@@ -119,7 +119,7 @@ An end-to-end AI-powered interview platform that replaces static HR screening. C
 
 AI-powered food-tech platform with a Gemini-driven recipe customization lab, weather-adjusted delivery ETA, real-time order tracking, and a full admin dashboard.
 
-**Stack:** `React 19` · `Vite` · `Supabase` · `Gemini API` · `Google Maps API`
+**Stack:** `React 19` · `Vite` · `MongoDB` · `Gemini API` · `Google Maps API`
 
 ![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
 
