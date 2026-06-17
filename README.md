@@ -212,7 +212,7 @@ Primary    ████████████████████  Agentic
 Backend    ██████████████████░░  Scalable System Design
 Full-Stack █████████████████░░░  MERN · PERN · Modern Stacks
 QA/Test    ████████████████░░░░  Automation & CI/CD Pipelines
-Design     ██████████████░░░░░░  UI/UX · Motion · Branding
+Design     ██████████████░░░░░░  UI/UX · Editing · Branding
 ```
 
 ---
