@@ -149,7 +149,7 @@ Real-time football data aggregator with a glassmorphism UI, fan rating system, a
 
 Cross-browser test automation framework built with POM architecture, data-driven test cases, and CI/CD-ready pipeline.
 
-**Stack:** `Selenium WebDriver` · `TestNG` · `POM Framework`
+**Stack:** `Selenium WebDriver` · `TestNG` · `POM Framework` · `Test-Cases`
 
 ![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
 
