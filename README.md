@@ -221,7 +221,7 @@ Design     ██████████████░░░░░░  UI/UX �
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thisisahmad24&label=Profile+Views&color=10b981&style=flat-square)
 
-**Open to full-time roles · internships · freelance collaborations**
+**Open to full-time roles · internships · freelance collaborations · project based collaborations**
 
 [LinkedIn](https://linkedin.com/in/ahmad-hassan-ai-engineer) · [Email](mailto:thisisahmad07@gmail.com) · [GitHub](https://github.com/thisisahmad24)
 
