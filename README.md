@@ -155,7 +155,7 @@ Cross-browser test automation framework built with POM architecture, data-driven
 
 ---
 
-### 🤖 Sentiment Analysis Engine
+### 🤖 Movie Reviews Sentiment Analysis Engine
 
 Deep learning NLP model on IMDb reviews using Bidirectional LSTM architecture with high-accuracy classification.
 
