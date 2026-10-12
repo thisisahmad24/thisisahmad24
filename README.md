@@ -29,7 +29,7 @@ name       : Ahmad Hassan
 alias      : thisisahmad24
 degree     : BS Software Engineering — 8th Semester
 university : University of Central Punjab, Lahore
-cgpa       : 3.21 / 4.0
+cgpa       : 3.26 / 4.0
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 design     : 8+ years — started with pixels, now ships products
 freelance  : 2+ years on Upwork · international clients
