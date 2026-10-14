@@ -32,7 +32,6 @@ university : University of Central Punjab, Lahore
 cgpa       : 3.26 / 4.0
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 design     : 8+ years — started with pixels, now ships products
-freelance  : 2+ years on Upwork · international clients
 status     : Open to full-time · internships · collaborations
 ```
 
