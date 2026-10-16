@@ -31,7 +31,7 @@ degree     : BS Software Engineering — Graduate
 university : University of Central Punjab, Lahore
 cgpa       : 3.26 / 4.0
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
-design     : 8+ years — started with pixels, now ships products
+
 ```
 
 > I don't build tutorial projects. I build SaaS platforms, AI systems, and production-grade software. If you're a recruiter the repos tell the story better than this file.
