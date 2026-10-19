@@ -29,7 +29,6 @@ name       : Ahmad Hassan
 alias      : thisisahmad24
 degree     : BS Software Engineering — Graduate
 university : University of Central Punjab, Lahore
-cgpa       : 3.26 / 4.0
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 
 ```
