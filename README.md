@@ -215,7 +215,7 @@ Design     ██████████████░░░░░░  UI/UX �
 
 <div align="center">
 
-**Open to full-time roles · internships · freelance collaborations · project based collaborations**
+**Open to full-time roles · internships · project based collaborations**
 
 [LinkedIn](https://linkedin.com/in/ahmad-hassan-ai-engineer) · [Email](mailto:thisisahmad07@gmail.com) · [GitHub](https://github.com/thisisahmad24)
 
