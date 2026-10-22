@@ -15,7 +15,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hassan-ai-engineer)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thisisahmad07@gmail.com)
 [![Instagram](https://img.shields.io/badge/@404.dimension-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/404.dimension)
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=flat-square&logo=github&logoColor=white)](https://github.com/thisisahmad24)
 [![Location](https://img.shields.io/badge/Lahore,%20Pakistan-6b7280?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lahore,Pakistan)
 
 </div>
