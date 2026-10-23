@@ -26,8 +26,7 @@
 ```yaml
 name       : Ahmad Hassan
 alias      : thisisahmad24
-degree     : BS Software Engineering — Graduate
-university : University of Central Punjab, Lahore
+degree     : BS Software Engineering 
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 
 ```
