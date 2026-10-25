@@ -93,7 +93,7 @@ focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 ## 🚀 Projects
 
 ### ⚡ VIRQA — AI Interview Intelligence System
-> **Final Year Project · Active Development**
+> **Final Year Project · submitted**
 
 An end-to-end AI-powered interview platform that replaces static HR screening. Candidates answer voice questions in real time; an LLM engine dynamically adjusts difficulty and generates follow-ups.
 
