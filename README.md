@@ -83,7 +83,6 @@ focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
 
 ### Design & Creative
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![After Effects](https://img.shields.io/badge/After_Effects-9999FF?style=flat-square&logo=adobe-after-effects&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
 ![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
 
