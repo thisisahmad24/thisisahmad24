@@ -164,7 +164,7 @@ Deep learning NLP model on IMDb reviews using Bidirectional LSTM architecture wi
 | Apr – May 2026 | Backend Engineering Intern | Digitech (Remote) |
 | Nov – Dec 2025 | AI/ML Engineering Intern | DevelopersHub (Remote) |
 | Nov – Dec 2025 | Frontend Dev Intern | Apexcify (Remote) |
-| 2017 – 2026 | Graphic Designer & Video Editor | Self-Employed |
+| 2017 – 2026 | Graphic Designer & Video Editor |
 
 ---
 
