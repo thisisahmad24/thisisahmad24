@@ -27,11 +27,6 @@ name       : Ahmad Hassan
 alias      : thisisahmad24
 degree     : BS Software Engineering 
 focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
-
-```
-
-> I don't build tutorial projects. I build SaaS platforms, AI systems, and production-grade software. If you're a recruiter the repos tell the story better than this file.
-
 ---
 
 ## 🔨 Tech Stack
