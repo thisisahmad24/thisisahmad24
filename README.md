@@ -1,210 +1,325 @@
-<div align="center">
+ <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:111827,100:0f0f0f&height=200&text=Ahmad%20Hassan&fontSize=60&fontColor=ffffff&fontAlignY=42&desc=AI/ML%20Engineer%20%C2%B7%20Backend%20Developer%20%C2%B7%20Software-Quality-Tester&descSize=15&descAlignY=66&descColor=6b7280" width="100%"/>
+<img src="https://www.nasa.gov/sites/default/files/thumbnails/image/bh_accretiondisk_sim_stationary_websize.gif" width="100%" alt="NASA black hole accretion disk animation"/>
 
-</div>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=FF3B3B&background=00000000&center=true&vCenter=true&width=780&lines=AHMAD+HASSAN+%7C+SOFTWARE+ENGINEER;Engineering+Software.+Building+Intelligence.;AI%2FML+%7C+Full-Stack+Development+%7C+Quality+Engineering;Code.+Create.+Test.+Deliver." alt="Typing introduction"/>
+</a>
 
-<div align="center">
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=13&pause=1000&color=10b981&center=true&vCenter=true&width=600&height=28&lines=Building+the+intelligence+layer+of+modern+software;AI+%2B+Full-Stack+%2B+Design+%E2%80%94+all+in+one+system;Currently+shipping+VIRQA+%E2%80%94+AI+Interview+Intelligence" />
-
-</div>
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmad-hassan-ai-engineer)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:thisisahmad07@gmail.com)
-[![Location](https://img.shields.io/badge/Lahore,%20Pakistan-6b7280?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Lahore,Pakistan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=flat-square\&logo=vercel\&logoColor=white)](https://github.com/thisisahmad24/Ahmad-s-Portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=flat-square\&logo=linkedin\&logoColor=0A66C2)](https://www.linkedin.com/in/ahmad-hassan-ai-engineer)
+[![GitHub](https://img.shields.io/badge/GitHub-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/thisisahmad24)
+[![Email](https://img.shields.io/badge/Email-111111?style=flat-square\&logo=gmail\&logoColor=EA4335)](mailto:thisisahmad07@gmail.com)
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=260&lines=Who+Am+I%3F" />
+</div>
 
-```yaml
-name       : Ahmad Hassan
-alias      : thisisahmad24
-degree     : BS Software Engineering 
-focus      : Agentic AI · LLM Orchestration · Full-Stack Systems
----
+I'm a **Software Engineering graduate from the University of Central Punjab**, focused on building practical software, intelligent applications, and reliable digital products.
 
+My work combines software development, AI engineering, quality assurance, and technical problem-solving. I work across the software lifecycle — understanding requirements, designing solutions, implementing features, testing functionality, and maintaining applications.
 
-### Languages
-
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/React_18/19-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js_15-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white)
-![React Query](https://img.shields.io/badge/React_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404040?style=flat-square&logo=express&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=black)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-
-### AI / ML
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![Groq LLaMA](https://img.shields.io/badge/Groq_LLaMA-F55036?style=flat-square&logo=groq&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-
-### DevOps & Tools
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Design & Creative
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=flat-square&logo=adobe-premiere-pro&logoColor=white)
-![DaVinci Resolve](https://img.shields.io/badge/DaVinci_Resolve-233A51?style=flat-square&logo=davinciresolve&logoColor=white)
+* 🎓 **BS Software Engineering** — University of Central Punjab
+* 💻 Software development across frontend, backend, APIs, and databases
+* 🤖 AI/ML applications, LLM integrations, and multi-agent workflows
+* 🧪 Software quality assurance and test automation
+* 🐧 Linux, command-line environments, Docker, and networking
+* ⚽ U-23 football player — Real Lahore & Punjab University
+* 🎥 Digital content creator with **5M+ reach in the past month**
 
 ---
-
-## 🚀 Projects
-
-### ⚡ VIRQA — AI Interview Intelligence System
-> **Final Year Project · submitted**
-
-An end-to-end AI-powered interview platform that replaces static HR screening. Candidates answer voice questions in real time; an LLM engine dynamically adjusts difficulty and generates follow-ups.
-
-**Stack:** `React` · `Node.js / Express` · `MongoDB` · `Socket.io` · `Groq LLaMA` · `Whisper STT`
-
-- 🎙️ Real-time voice AI with Speech-to-Text (Whisper)
-- 🧠 LLM adaptive difficulty & follow-up generation
-- 📊 Multi-role dashboards — candidate, interviewer, admin
-- 🔌 WebSocket live session management
-
-![Progress](https://img.shields.io/badge/Progress-95%25-10b981?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-FF6B00?style=flat-square)
-
----
-
-### 🍕 Taza Pizza SaaS
-
-AI-powered food-tech platform with a Gemini-driven recipe customization lab, weather-adjusted delivery ETA, real-time order tracking, and a full admin dashboard.
-
-**Stack:** `React 19` · `Vite` · `MongoDB` · `Gemini API` · `Google Maps API`
-
-![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
-
----
-
-### 📸 SnapSave Pro
-
-Instagram media extractor with a freemium monetization layer, multi-format support, and zero login friction.
-
-**Stack:** `Next.js 15` · `FastAPI` · `MongoDB`
-
-![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
-
----
-
-### ⚽ GoalGate
-
-Real-time football data aggregator with a glassmorphism UI, fan rating system, and live stats pipeline.
-
-**Stack:** `Next.js 15` · `API-Football` · `Supabase`
-
-![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
-
----
-
-### 🧪 QA Automation Suite
-
-Cross-browser test automation framework built with POM architecture, data-driven test cases, and CI/CD-ready pipeline.
-
-**Stack:** `Selenium WebDriver` · `TestNG` · `POM Framework` · `Test-Cases`
-
-![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
-
----
-
-### 🤖 Movie Reviews Sentiment Analysis Engine
-
-Deep learning NLP model on IMDb reviews using Bidirectional LSTM architecture with high-accuracy classification.
-
-**Stack:** `TensorFlow` · `Keras` · `BiLSTM` · `NLP`
-
-![Status](https://img.shields.io/badge/Status-Deployed-10b981?style=flat-square)
-
----
-
-## 📋 Experience
-
-| Period | Role | Organization |
-|--------|------|--------------|
-| Apr – May 2026 | Backend Engineering Intern | Digitech (Remote) |
-| Nov – Dec 2025 | AI/ML Engineering Intern | DevelopersHub (Remote) |
-| Nov – Dec 2025 | Frontend Dev Intern | Apexcify (Remote) |
-| 2017 – 2026 | Graphic Designer & Video Editor |
-
----
-
-## 🏛️ Leadership & Community
-
-| Role | Organization | Period |
-|------|-------------|--------|
-| Media Director | ACM UCP Chapter | Apr – Jun 2025 |
-| Social Media Manager | Cyber Security Society UCP | Jun 2025 – Mar 2026 |
-| Brand Ambassador | DataCrumbs | Completed |
-| Project Team Lead | University Projects |
-| Hackathon Operator | Multiple Competitions |
-
----
-
-## 📈 GitHub Stats
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=360&lines=Software+Engineering" />
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=thisisahmad24&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&icon_color=10b981&text_color=9ca3af)
+**Development & Architecture**
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thisisahmad24&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=10b981&text_color=9ca3af)
+* Software Development Life Cycle (SDLC)
+* Requirements engineering and software analysis
+* Object-oriented programming and clean code
+* Frontend and backend development
+* REST API design and integration
+* Database design and management
+* Documentation, maintenance, and debugging
 
-![GitHub Streak](https://streak-stats.demolab.com?user=thisisahmad24&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=10b981&ring=10b981&fire=FF6B00&currStreakLabel=10b981)
+**Web Technologies**
 
-![snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg)
+<div align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,fastapi,flask,django&theme=dark" />
+</div>
 
+**Languages & Databases**
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql,mongodb,postgres,supabase&theme=dark" />
 </div>
 
 ---
 
-## 🎯 Current Focus
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=360&lines=AI+%2F+Machine+Learning" />
+</div>
 
-```text
-Primary    ████████████████████  Agentic AI & LLM Orchestration
-Backend    ██████████████████░░  Scalable System Design
-Full-Stack █████████████████░░░  MERN · PERN · Modern Stacks
-QA/Test    ████████████████░░░░  Automation & CI/CD Pipelines
-Design     ██████████████░░░░░░  UI/UX · Editing · Branding
-```
+Building and integrating intelligent applications using machine learning, deep learning, NLP, and modern LLM technologies.
+
+* Machine Learning and predictive modelling
+* Data preprocessing and feature engineering
+* Deep Learning and neural networks
+* Natural Language Processing
+* LLM APIs and local model integration
+* Prompt engineering and structured outputs
+* Retrieval-Augmented Generation (RAG)
+* AI agents and multi-agent orchestration
+* Model evaluation and performance analysis
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Scikit--learn-111111?style=flat-square&logo=scikitlearn&logoColor=F7931E" />
+<img src="https://img.shields.io/badge/Pandas-111111?style=flat-square&logo=pandas&logoColor=150458" />
+<img src="https://img.shields.io/badge/LangChain-111111?style=flat-square&logo=langchain&logoColor=1C3C3C" />
+<img src="https://img.shields.io/badge/Ollama-111111?style=flat-square&logo=ollama&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging_Face-111111?style=flat-square&logo=huggingface&logoColor=FFD21E" />
+<img src="https://img.shields.io/badge/Streamlit-111111?style=flat-square&logo=streamlit&logoColor=FF4B4B" />
+</div>
 
 ---
 
 <div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=390&lines=Quality+%26+Testing" />
+</div>
 
-**Open to full-time roles · internships · project based collaborations**
+I approach software quality as part of engineering, not an afterthought.
 
-[LinkedIn](https://linkedin.com/in/ahmad-hassan-ai-engineer) · [Email](mailto:thisisahmad07@gmail.com) · [GitHub](https://github.com/thisisahmad24)
+* Software Quality Assurance (SQA)
+* Manual, functional, and regression testing
+* Test plans, scenarios, and test case design
+* UI and end-to-end automation
+* API testing and validation
+* Defect reporting and documentation
+* Page Object Model (POM)
+* Cross-browser and compatibility testing
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:111827,100:0f0f0f&height=100&section=footer" width="100%"/>
+<div align="center">
+<img src="https://skillicons.dev/icons?i=selenium,postman,gherkin&theme=dark" />
 
+<br>
+
+<img src="https://img.shields.io/badge/Playwright-111111?style=flat-square&logo=playwright&logoColor=2EAD33" />
+<img src="https://img.shields.io/badge/Cypress-111111?style=flat-square&logo=cypress&logoColor=69D3A7" />
+<img src="https://img.shields.io/badge/TestNG-111111?style=flat-square&logo=testng&logoColor=white" />
+<img src="https://img.shields.io/badge/Jest-111111?style=flat-square&logo=jest&logoColor=C21325" />
+<img src="https://img.shields.io/badge/Maven-111111?style=flat-square&logo=apachemaven&logoColor=C71A36" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=420&lines=Systems+%26+Infrastructure" />
+</div>
+
+**Development Environment & Deployment**
+
+* Linux, Ubuntu, Bash, and CLI workflows
+* Git and GitHub version control
+* Docker and containerization
+* CI/CD concepts and development workflows
+* Application deployment and environment configuration
+
+**Networking & Information Security**
+
+* TCP/IP and networking fundamentals
+* DNS, HTTP/HTTPS, ports, and protocols
+* Client-server communication
+* Authentication and authorization
+* Password hashing and secure application practices
+* Common web vulnerabilities and attack concepts
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,bash,docker,git,github,vercel&theme=dark" />
+</div>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=340&lines=Featured+Projects" />
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚽ TransferIQ
+
+**Football Transfer Fee Prediction**
+
+ML-powered Premier League transfer valuation using historical player performance, football statistics, feature engineering, and regression models.
+
+`Python` `Pandas` `Scikit-learn` `Streamlit`
+
+[↗ View Repository](https://github.com/thisisahmad24/transfer-iq)
+
+</td>
+<td width="50%" valign="top">
+
+### 🎙️ VIRQA
+
+**AI Interview Platform**
+
+Voice-based interview platform with adaptive questions, role-specific interview flows, and LLM-assisted candidate evaluation.
+
+`React` `Node.js` `MongoDB` `Socket.io` `Groq` `Whisper`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Multi-Agent Workflows
+
+**Local AI Agent Systems**
+
+Specialized agents for task decomposition, research, coding, and review using locally hosted language models.
+
+`Python` `Ollama` `LangChain` `LangGraph`
+
+[↗ View Repository](https://github.com/thisisahmad24/multi-agent-workflows)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Helmet Detection & E-Challan
+
+**Computer Vision System**
+
+Helmet violation detection using object detection, image processing, and evidence-frame annotation.
+
+`Python` `YOLOv8` `OpenCV`
+
+[↗ View Repository](https://github.com/thisisahmad24/helmet-challan-system)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧠 Movie Review Sentiment Analyzer
+
+**NLP Classification**
+
+Deep-learning application that classifies movie reviews using a BiLSTM sentiment model.
+
+`Python` `TensorFlow` `BiLSTM` `Flask`
+
+[↗ View Repository](https://github.com/thisisahmad24/MovieReviews-SentimentApp-Python)
+
+</td>
+<td width="50%" valign="top">
+
+### 📥 SnapSave Pro
+
+**Full-Stack Media Application**
+
+Media downloading product with a Next.js frontend, FastAPI service, authentication, and account-based usage limits.
+
+`Next.js` `TypeScript` `FastAPI` `MongoDB`
+
+[↗ View Repository](https://github.com/thisisahmad24/snap-save-pro)
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>More projects — APIs, automation, web applications & software development</b></summary>
+
+| Project                 | Description                                  | Repository                                                                          |
+| ----------------------- | -------------------------------------------- | ----------------------------------------------------------------------------------- |
+| Authentication REST API | JWT, refresh tokens, password hashing, RBAC  | [auth-service](https://github.com/thisisahmad24/auth-service)                       |
+| QA Automation Portfolio | Selenium, TestNG, Maven, POM, test scenarios | [qa-automation-portfolio](https://github.com/thisisahmad24/qa-automation-portfolio) |
+| GoalGate                | Football content and fan engagement platform | [GoalGate](https://github.com/thisisahmad24/GoalGate)                               |
+| Java GUI Phonebook      | Java Swing, OOP, file handling               | [Java-GUI-Phonebook](https://github.com/thisisahmad24/Java-GUI-Phonebook)           |
+| DevOps Engineering      | DevOps learning and implementation           | [DevopsEngineering](https://github.com/thisisahmad24/DevopsEngineering)             |
+| Banking System          | Software development and OOP project         | [Banking-System](https://github.com/thisisahmad24/Banking-System)                   |
+
+</details>
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=390&lines=Professional+Experience" />
+</div>
+
+**SQA Intern — DaFi Labs** · Remote
+
+* Manual and functional testing
+* Test scenario design and defect documentation
+* API validation with Postman
+* End-to-end automation using Playwright
+
+**Backend Engineering Intern — Digitech Offerings** · Remote
+
+* Backend development and API implementation
+* Server-side application workflows
+
+**Frontend Developer Intern — Apexcify Technologies** · Remote
+
+* Responsive React interfaces
+* Reusable UI components
+* Cross-browser interface testing
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=400&lines=Leadership+%26+Beyond+Code" />
+</div>
+
+| Role                 | Organization / Activity         |
+| -------------------- | ------------------------------- |
+| Media Director       | ACM UCP Chapter                 |
+| Social Media Manager | Cyber Security Society, UCP     |
+| Brand Ambassador     | DataCrumbs                      |
+| Project Team Lead    | University Projects             |
+| Hackathon Operator   | University Competitions         |
+| U-23 Football Player | Real Lahore & Punjab University |
+| Content Creator      | 5M+ monthly reach               |
+
+Combining engineering with communication, creative media, teamwork, leadership, and competitive sports.
+
+---
+
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=280&lines=Let's+Connect" />
+
+<br>
+
+<a href="https://www.linkedin.com/in/ahmad-hassan-ai-engineer">
+<img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
+</a>
+<a href="mailto:thisisahmad07@gmail.com">
+<img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=EA4335" />
+</a>
+<a href="https://github.com/thisisahmad24">
+<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF" />
+</a>
+
+<br><br>
+
+**BUILDING SYSTEMS. SOLVING PROBLEMS. SHIPPING SOFTWARE.**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:080808,45:4A0000,100:FF2020&height=150&section=footer&reversal=false" width="100%" alt="Red cyberpunk footer"/>
+
+<div align="center">
+<sub>There is always another layer to build.</sub>
 </div>
