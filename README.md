@@ -21,9 +21,9 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=260&lines=Who+Am+I%3F" />
 </div>
 
-I'm a **Software Engineering graduate from the University of Central Punjab**, focused on building practical software, intelligent applications, and reliable digital products.
+I'm a **Software Engineer**, focused on building practical software, intelligent applications, and reliable digital products.
 
-My work combines software development, AI engineering, quality assurance, and technical problem-solving. I work across the software lifecycle — understanding requirements, designing solutions, implementing features, testing functionality, and maintaining applications.
+My work combines software development, AI engineering, quality assurance, and technical problem-solving. I work across the software lifecycle understanding requirements, designing solutions, implementing features, testing functionality, and maintaining applications.
 
 * 🎓 **BS Software Engineering** — University of Central Punjab
 * 💻 Software development across frontend, backend, APIs, and databases
