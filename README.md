@@ -25,12 +25,12 @@ I'm a **Software Engineer**, focused on building practical software, intelligent
 
 My work combines software development, AI engineering, quality assurance, and technical problem-solving. I work across the software lifecycle understanding requirements, designing solutions, implementing features, testing functionality, and maintaining applications.
 
-* 🎓 **BS Software Engineering** — University of Central Punjab
+* 🎓 **BS Software Engineering** University of Central Punjab
 * 💻 Software development across frontend, backend, APIs, and databases
 * 🤖 AI/ML applications, LLM integrations, and multi-agent workflows
 * 🧪 Software quality assurance and test automation
 * 🐧 Linux, command-line environments, Docker, and networking
-* ⚽ U-23 football player — Real Lahore & Punjab University
+* ⚽ U-23 football player
 * 🎥 Digital content creator with **5M+ reach in the past month**
 
 ---
