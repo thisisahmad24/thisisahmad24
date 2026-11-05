@@ -30,8 +30,6 @@ My work combines software development, AI engineering, quality assurance, and te
 * 🤖 AI/ML applications, LLM integrations, and multi-agent workflows
 * 🧪 Software quality assurance and test automation
 * 🐧 Linux, command-line environments, Docker, and networking
-* ⚽ U-23 football player
-* 🎥 Digital content creator with **5M+ reach in the past month**
 
 ---
 
