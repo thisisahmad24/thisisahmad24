@@ -288,7 +288,7 @@ Media downloading product with a Next.js frontend, FastAPI service, authenticati
 | Brand Ambassador     | DataCrumbs                      |
 | Project Team Lead    | University Projects             |
 | Hackathon Operator   | University Competitions         |
-| U-23 Football Player | Real Lahore & Punjab University |
+| U-23 Football Player | Real Lahore - Punjab University |
 | Content Creator      | 5M+ monthly reach               |
 
 Combining engineering with communication, creative media, teamwork, leadership, and competitive sports.
