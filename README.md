@@ -257,19 +257,19 @@ Media downloading product with a Next.js frontend, FastAPI service, authenticati
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2500&pause=100000&color=FF5555&background=00000000&center=true&vCenter=true&repeat=false&width=390&lines=Professional+Experience" />
 </div>
 
-**SQA Intern — DaFi Labs** · Remote
+**SQA Intern - DaFi Labs** · Remote
 
 * Manual and functional testing
 * Test scenario design and defect documentation
 * API validation with Postman
 * End-to-end automation using Playwright
 
-**Backend Engineering Intern — Digitech Offerings** · Remote
+**Backend Engineering Intern - Digitech Offerings** · Remote
 
 * Backend development and API implementation
 * Server-side application workflows
 
-**Frontend Developer Intern — Apexcify Technologies** · Remote
+**Frontend Developer Intern - Apexcify Technologies** · Remote
 
 * Responsive React interfaces
 * Reusable UI components
